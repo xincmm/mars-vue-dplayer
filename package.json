@@ -1,0 +1,41 @@
+{
+  "name": "mars-vue-dplayer",
+  "description": "A Vue 2.x video player component based on DPlayer",
+  "version": "1.0.0",
+  "main": "dist/mars-vue-dplayer.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo lol",
+    "build:example": "poi build example/index.js",
+    "build": "bili",
+    "example": "poi example/index.js",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinchang/vue-dplayer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sinchang/vue-dplayer/issues"
+  },
+  "keywords": [
+    "vue",
+    "component",
+    "player"
+  ],
+  "poi": {
+    "dist": "example-dist"
+  },
+  "author": "xincmm <licmucm@gmail.com>",
+  "devDependencies": {
+    "bili": "2.0.0",
+    "poi": "9.6.13"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "dplayer": "^1.25.0",
+    "vue-github-badge": "1.0.1"
+  }
+}

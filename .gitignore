@@ -1,0 +1,9 @@
+node_modules
+*.log
+.DS_Store
+
+# produced by vbuild
+example-dist
+dist
+yarn—error.log
+.idea
