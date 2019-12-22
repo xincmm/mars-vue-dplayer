@@ -2117,7 +2117,7 @@ dot-prop@^4.1.0, dot-prop@^4.1.1:
   dependencies:
     is-obj "^1.0.0"
 
-dplayer@^1.25.0:
+dplayer@1.25.0:
   version "1.25.0"
   resolved "https://registry.yarnpkg.com/dplayer/-/dplayer-1.25.0.tgz#10afb3416b42125b8926d9b157aae594c84945fb"
   integrity sha512-TG2IKT4IXH5trE3DKeeOqmGlewheHT5R30ya4jhMrjysc1rrCPMJYnmsBfiTS8h6613YZeriFIDHZHEEi/rs3Q==

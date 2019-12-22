@@ -1,7 +1,7 @@
 {
   "name": "mars-vue-dplayer",
   "description": "A Vue 2.x video player component based on DPlayer",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "main": "dist/mars-vue-dplayer.js",
   "files": [
     "dist"
@@ -35,7 +35,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "dplayer": "^1.25.0",
+    "dplayer": "1.25.0",
     "vue-github-badge": "1.0.1"
   }
 }
